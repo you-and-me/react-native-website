@@ -15,7 +15,6 @@ title: Switch
 
 - [`disabled`](switch.md#disabled)
 - [`trackColor`](switch.md#trackcolor)
-- [`onValueChange`](switch.md#onvaluechange)	
 - [`ios_backgroundColor`](switch.md#ios_backgroundcolor)
 - [`onValueChange`](switch.md#onvaluechange)
 - [`testID`](switch.md#testid)
